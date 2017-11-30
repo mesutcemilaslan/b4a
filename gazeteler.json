@@ -1,0 +1,81 @@
+{
+	"data": [{
+			"cat": "ULUSAL",
+			"sites": [{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				}
+			]
+		},
+		{
+			"cat": "WEB",
+			"sites": [{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				},
+				{
+					"logo": "",
+					"title": "Akşam Gazetesi",
+					"url": "http://www.aksam.com.tr"
+				}
+			]
+		}
+	]
+}
