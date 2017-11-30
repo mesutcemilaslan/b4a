@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <text>ANA MENU</text>
+        <url>file:///android_asset/index.html</url>
+    </item>
+    <item>
+		<text>Habertürk</text>
+		<url>http://m.haberturk.com</url>
+    </item>
+	<item>
+		<text>Milliyet</text>
+		<url>http://m.milliyet.com.tr/</url>
+    </item>
+	<item>
+		<text>Hürriyet</text>
+		<url>http://cep.hurriyet.com.tr</url>
+    </item>
+	<item>
+		<text>Sabah</text>
+		<url>http://cep.sabah.com.tr/</url>
+    </item>
+	<item>
+		<text>Radikal</text>
+		<url>http://m.radikal.com.tr</url>
+    </item>
+	<item>
+		<text>İnternet Haber</text>
+		<url>http://m.internethaber.com</url>
+    </item>
+	<item>
+		<text>Cumhuriyet</text>
+		<url>http://m.cumhuriyet.com.tr/iphone/</url>
+    </item>
+	<item>
+		<text>Vatan</text>
+		<url>http://m.gazetevatan.com</url>
+    </item>
+	<item>
+		<text>Zaman</text>
+		<url>http://wap.zaman.com.tr</url>
+    </item>
+	<item>
+		<text>Sözcü</text>
+		<url>http://www.google.com/gwt/x?u=www.sozcu.com.tr</url>
+    </item>
+	<item>
+		<text>Yeni Şafak</text>
+		<url>http://yenisafak.mobi</url>
+    </item>
+	<item>
+		<text>Aktif Haber</text>
+		<url>http://www.aktifhaber.com/mobi/</url>
+    </item>
+	<item>
+		<text>NTVMSNBC</text>
+		<url>http://wap.ntvmsnbc.com</url>
+    </item>
+	<item>
+		<text>Bugün</text>
+		<url>http://mobil.bugun.com.tr/</url>
+    </item>
+	<item>
+		<text>Posta</text>
+		<url>http://m.posta.com.tr/</url>
+    </item>
+	<item>
+		<text>Sporx</text>
+		<url>http://m.sporx.com</url>
+    </item>
+	<item>
+		<text>Ajansspor</text>
+		<url>http://m.ajansspor.com</url>
+    </item>
+	<item>
+		<text>Bloomberg</text>
+		<url>http://mobile.bloomberg.com</url>
+    </item>
+	<item>
+		<text>Anadolu Ajansı</text>
+		<url>http://m.aa.com.tr</url>
+    </item>
+	<item>
+		<text>Fanatik</text>
+		<url>http://m.fanatik.com.tr/iphone/</url>
+    </item>
+	<item>
+		<text>Fotomaç</text>
+		<url>http://cep.fotomac.com.tr/</url>
+    </item>
+	<item>
+		<text>YeniÇağ</text>
+		<url>http://www.google.com/gwt/x?u=http://www.yg.yenicaggazetesi.com.tr/</url>
+    </item>
+	<item>
+		<text>Aydınlık</text>
+		<url>http://www.google.com/gwt/x?u=http://www.aydinlikgazete.com/</url>
+    </item>
+	<item>
+		<text>Akşam</text>
+		<url>http://www.google.com/gwt/x?u=http://www.aksam.com.tr/</url>
+    </item>
+	<item>
+		<text>Birgün</text>
+		<url>http://www.birgun.net/mobile.php</url>
+    </item>
+	<item>
+		<text>CNNTurk</text>
+		<url>http://m.cnnturk.com</url>
+    </item>
+	<item>
+		<text>Dünya</text>
+		<url>http://www.google.com/gwt/x?u=http://www.dunya.com/</url>
+    </item>
+	<item>
+		<text>EKolay</text>
+		<url>http://m.ekolay.net/</url>
+    </item>
+	<item>
+		<text>En Son Haber</text>
+		<url>http://m.ensonhaber.com/</url>
+    </item>
+	<item>
+		<text>Evrensel</text>
+		<url>http://www.google.com/gwt/x?u=http://www.evrensel.net/</url>
+    </item>
+	<item>
+		<text>Google Haber</text>
+		<url>http://news.google.com.tr</url>
+    </item>
+	<item>
+		<text>Güneş</text>
+		<url>http://www.google.com/gwt/x?u=http://www.gunes.com</url>
+    </item>
+	<item>
+		<text>Haber7</text>
+		<url>http://m.haber7.com/</url>
+    </item>
+	<item>
+		<text>Lig TV</text>
+		<url>http://m.ligtv.com.tr/</url>
+    </item>
+	<item>
+		<text>Oda TV</text>
+		<url>http://www.odatv.com/m.php</url>
+    </item>
+	<item>
+		<text>Samanyolu Haber</text>
+		<url>http://m.samanyoluhaber.com/</url>
+    </item>
+	<item>
+		<text>Star</text>
+		<url>http://mobil.stargazete.com/pc/</url>
+    </item>
+	<item>
+		<text>Takvim</text>
+		<url>http://www.google.com/gwt/x?u=http://www.takvim.com.tr/</url>
+    </item>
+	<item>
+		<text>Taraf</text>
+		<url>http://www.google.com/gwt/x?u=http://www.taraf.com.tr/</url>
+    </item>
+	<item>
+		<text>Yeni Asya</text>
+		<url>http://www.google.com/gwt/x?u=http://www.yeniasya.com.tr/</url>
+    </item>
+	<item>
+		<text>BBC Türkçe</text>
+		<url>http://www.bbc.co.uk/turkce/cep/</url>
+    </item>
+	<item>
+		<text>TRT</text>
+		<url>http://m.trt.net.tr</url>
+    </item>
+	<item>
+		<text>Türkiye Gazetesi</text>
+		<url>http://www.google.com/gwt/x?u=www.turkiyegazetesi.com</url>
+    </item>
+	<item>
+		<text>Yurt</text>
+		<url>http://www.google.com/gwt/x?u=http://www.yurtgazetesi.com.tr/</url>
+    </item>
+	<item>
+		<text>Yeni Akit</text>
+		<url>http://www.google.com/gwt/x?u=http://www.yeniakit.com/</url>
+    </item>
+</menu>
